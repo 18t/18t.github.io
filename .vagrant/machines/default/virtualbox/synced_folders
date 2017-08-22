@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"D:/wampserver/www/18t.github.io","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/wampserver/www/18t.github.io","disabled":false,"__vagrantfile":true}}}
